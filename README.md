@@ -1,6 +1,6 @@
 # 📴 Lucas Rodrigues
 <p>
-<img height = "100px" alt = "nada" src = "https://static.wikia.nocookie.net/evangelion/images/0/0b/The_Sixth_Angel_%28Rebuild%29.png/revision/latest?cb=20120301032129"/>
+<img height = "100px" align = "left" alt = "nada" src = "https://static.wikia.nocookie.net/evangelion/images/0/0b/The_Sixth_Angel_%28Rebuild%29.png/revision/latest?cb=20120301032129"/>
 <p/>
          
 **`Técnico de ADS`**
