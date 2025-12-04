@@ -1,16 +1,15 @@
-## Hi there 👋
+<p style = "position: absolute; padding-left: 400px;padding-top:20px" >
+<img height = "100px" alt = "nada" src = "https://static.wikia.nocookie.net/evangelion/images/0/0b/The_Sixth_Angel_%28Rebuild%29.png/revision/latest?cb=20120301032129"/>
+<p/>
 
-<!--
-**lucafks/lucafks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📴 Lucas Rodrigues
+**`Técnico de ADS`**
 
-Here are some ideas to get you started:
+Sou Técnico de Análise e Desenvolvimento de Sistemas formado pela rede SESI/SENAI, com interesse crescente na área de Tecnologia da Informação. Tenho me dedicado especialmente ao desenvolvimento web, onde já venho criando projetos pessoais para aprender na prática e aprimorar minhas habilidades. Também estou começando a explorar Inteligência Artificial e sigo em busca de aprendizado contínuo e oportunidades para crescer profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" >
+         <img height = "28px" alt="e-mail" title="Fale comigo pelo email" src="https://custom-icon-badges.demolab.com/badge/mail-E61B23.svg?logo=mail"/></a>
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+         <img alt="total estrelas" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucafks?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
