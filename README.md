@@ -1,8 +1,8 @@
+# 📴 Lucas Rodrigues
 <p style = "position: absolute; padding-left: 400px;padding-top:20px" >
 <img height = "100px" alt = "nada" src = "https://static.wikia.nocookie.net/evangelion/images/0/0b/The_Sixth_Angel_%28Rebuild%29.png/revision/latest?cb=20120301032129"/>
 <p/>
-
-# 📴 Lucas Rodrigues
+         
 **`Técnico de ADS`**
 
 Sou Técnico de Análise e Desenvolvimento de Sistemas formado pela rede SESI/SENAI, com interesse crescente na área de Tecnologia da Informação. Tenho me dedicado especialmente ao desenvolvimento web, onde já venho criando projetos pessoais para aprender na prática e aprimorar minhas habilidades. Também estou começando a explorar Inteligência Artificial e sigo em busca de aprendizado contínuo e oportunidades para crescer profissionalmente.
