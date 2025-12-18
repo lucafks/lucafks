@@ -1,4 +1,4 @@
-# 📴 Lucas Rodrigues
+# 📳 Lucas Rodrigues
 <a href="https://github.com/lucafks">
 <img height = "100px" align = "right" alt = "nada" src = "https://static.wikia.nocookie.net/evangelion/images/0/0b/The_Sixth_Angel_%28Rebuild%29.png/revision/latest?cb=20120301032129"/>
 <a/>
